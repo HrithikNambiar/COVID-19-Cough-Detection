@@ -21,6 +21,6 @@ This improve the Baseline scores as follows:
    -  Apply poisson mask on each example to mimic muscular degradation during cough.
    
 
-The Repository for the Bsseline paper: https://github.com/EIHW/ComParE2021
+The Repository for the Baseline paper: https://github.com/EIHW/ComParE2021
 
 
