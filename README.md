@@ -24,4 +24,16 @@ This improve the Baseline scores as follows:
 
 The Repository for the Baseline paper: https://github.com/EIHW/ComParE2021
 
+File structure:
+
+ComPare2021
+|
+|--data
+    |-- test
+    |-- train
+    |-- val
+    |-- mfcc
+|-- opensmile
+|-- openXBow
+
 
