@@ -1,6 +1,8 @@
 # COVID-19-Cough-Detection
 An attempt at the Covid-19 Cough Sub-Challenge at the INTERSPEECH 2021 Computational Paralinguistics Challenge (ComParE).
+
 Baseline paper: http://www.compare.openaudio.eu/wp-content/uploads/2021/02/Interspeech_2021_ComParE.pdf
+
 Our attempts,results and improvements - 
 
 1. Augmentation : 
