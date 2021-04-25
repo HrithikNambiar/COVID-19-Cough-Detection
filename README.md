@@ -14,10 +14,9 @@ This improve the Baseline scores as follows:
   c. Feature extraction using Deep Spectrum and classification using SVM- 1% increase in UAR in comparison to the baseline.
   
 2. Attempt at implementing a BIOMARKER:
-
-Motivation : https://ieeexplore.ieee.org/document/9208795
-   >  Cough recording is split into 6 second audio chunks, padded as needed, processed with the MFCC package
-   >  Apply poisson mask on each example to mimic muscular degradation during cough.
+   Motivation : https://ieeexplore.ieee.org/document/9208795
+   - Cough recording is split into 6 second audio chunks, padded as needed, processed with the MFCC package
+   -  Apply poisson mask on each example to mimic muscular degradation during cough.
    
 
 The Repository for the Bsseline paper: https://github.com/EIHW/ComParE2021
