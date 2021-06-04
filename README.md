@@ -28,8 +28,6 @@ File structure:
 
 ComPare2021
 
-|
-
 |--data
 
     |-- test
