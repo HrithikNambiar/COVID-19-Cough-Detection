@@ -1,5 +1,5 @@
 # COVID-19-Cough-Detection
-An attempt at the Covid-19 Cough Sub-Challenge at the INTERSPEECH 2021 Computational Paralinguistics Challenge (ComParE).
+A SVM based model which can recognize COVID coughs using short audio cough recordings. An attempt at the INTERSPEECH 2021 Computational Paralinguistics Sub-Challenge .
 
 Baseline paper: http://www.compare.openaudio.eu/wp-content/uploads/2021/02/Interspeech_2021_ComParE.pdf
 
